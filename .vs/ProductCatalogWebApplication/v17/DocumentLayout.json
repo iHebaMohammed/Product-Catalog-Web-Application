@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repos\\ProductCatalogWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|e:\\repos\\productcatalogwebapplication\\demo.dal\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|e:\\repos\\productcatalogwebapplication\\demo.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|e:\\repos\\productcatalogwebapplication\\demo.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|e:\\repos\\productcatalogwebapplication\\demo.dal\\contexts\\productcategorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\contexts\\productcategorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 994,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\Category.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "Demo.DAL\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:39:47.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategoryDbContext.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Contexts\\ProductCategoryDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Contexts\\ProductCategoryDbContext.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Contexts\\ProductCategoryDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Contexts\\ProductCategoryDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:34:42.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Demo.DAL\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:36:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\Products.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Products.cs",
+              "RelativeToolTip": "Demo.DAL\\Entities\\Products.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:29:34.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

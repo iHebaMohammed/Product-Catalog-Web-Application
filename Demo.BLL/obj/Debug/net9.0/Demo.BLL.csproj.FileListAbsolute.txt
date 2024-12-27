@@ -1,0 +1,15 @@
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\bin\Debug\net9.0\Demo.BLL.deps.json
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\bin\Debug\net9.0\Demo.BLL.dll
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\bin\Debug\net9.0\Demo.BLL.pdb
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\bin\Debug\net9.0\Demo.DAL.dll
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\bin\Debug\net9.0\Demo.DAL.pdb
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.AssemblyInfo.cs
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.csproj.Up2Date
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.dll
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\refint\Demo.BLL.dll
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.pdb
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\ref\Demo.BLL.dll
