@@ -141,3 +141,4 @@ E:\Repos\ProductCatalogWebApplication\Demo.PL\obj\Debug\net9.0\refint\Demo.PL.dl
 E:\Repos\ProductCatalogWebApplication\Demo.PL\obj\Debug\net9.0\Demo.PL.pdb
 E:\Repos\ProductCatalogWebApplication\Demo.PL\obj\Debug\net9.0\Demo.PL.genruntimeconfig.cache
 E:\Repos\ProductCatalogWebApplication\Demo.PL\obj\Debug\net9.0\ref\Demo.PL.dll
+E:\Repos\ProductCatalogWebApplication\Demo.PL\obj\Debug\net9.0\Demo.PL.sourcelink.json

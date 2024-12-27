@@ -13,3 +13,4 @@ E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.dll
 E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\refint\Demo.BLL.dll
 E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.pdb
 E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\ref\Demo.BLL.dll
+E:\Repos\ProductCatalogWebApplication\Demo.BLL\obj\Debug\net9.0\Demo.BLL.sourcelink.json

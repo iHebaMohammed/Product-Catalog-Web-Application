@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "E:\\Repos\\ProductCatalogWebApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\productcatalogwebapplication\\demo.bll\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\productcatalogwebapplication\\demo.bll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\productcatalogwebapplication\\demo.bll\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\productcatalogwebapplication\\demo.bll\\specifications\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\specifications\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|e:\\repos\\productcatalogwebapplication\\demo.dal\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|e:\\repos\\productcatalogwebapplication\\demo.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\productcatalogwebapplication\\demo.bll\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\productcatalogwebapplication\\demo.bll\\specifications\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\specifications\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\productcatalogwebapplication\\demo.bll\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085DF756-18E7-4609-A921-C3E36940A7A6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F192F4B-8D9A-4243-960B-75F5D6F9E34A}|Demo.DAL\\Demo.DAL.csproj|e:\\repos\\productcatalogwebapplication\\demo.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,21 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 994,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\Category.cs",
-              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Category.cs",
-              "RelativeToolTip": "Demo.DAL\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:39:47.577Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -67,7 +82,136 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseSpecifications.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Specifications\\BaseSpecifications.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Specifications\\BaseSpecifications.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Specifications\\BaseSpecifications.cs",
+              "RelativeToolTip": "Demo.BLL\\Specifications\\BaseSpecifications.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA+wC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:07:41.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Specifications\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Specifications\\ISpecifications.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Specifications\\ISpecifications.cs",
+              "RelativeToolTip": "Demo.BLL\\Specifications\\ISpecifications.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:05:48.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\BaseEntity.cs*",
+              "RelativeToolTip": "Demo.DAL\\Entities\\BaseEntity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:36:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\Products.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Products.cs*",
+              "RelativeToolTip": "Demo.DAL\\Entities\\Products.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:29:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Interfaces\\IGenaricRepository.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Interfaces\\IGenaricRepository.cs*",
+              "RelativeToolTip": "Demo.BLL\\Interfaces\\IGenaricRepository.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:02:27.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenaricRepository.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Repositories\\GenaricRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Repositories\\GenaricRepository.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Repositories\\GenaricRepository.cs*",
+              "RelativeToolTip": "Demo.BLL\\Repositories\\GenaricRepository.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:04:44.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Demo.BLL\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:07:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Specifications\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Specifications\\SpecificationEvaluator.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Specifications\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Demo.BLL\\Specifications\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:06:39.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.BLL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Demo.BLL\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:03:51.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\Category.cs",
+              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "Demo.DAL\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:39:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ProductCategoryDbContext.cs",
               "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Contexts\\ProductCategoryDbContext.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Contexts\\ProductCategoryDbContext.cs",
@@ -75,34 +219,7 @@
               "RelativeToolTip": "Demo.DAL\\Contexts\\ProductCategoryDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T23:34:42.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\BaseEntity.cs",
-              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Demo.DAL\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:36:03.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Products.cs",
-              "DocumentMoniker": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Products.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Entities\\Products.cs",
-              "ToolTip": "E:\\Repos\\ProductCatalogWebApplication\\Demo.DAL\\Entities\\Products.cs",
-              "RelativeToolTip": "Demo.DAL\\Entities\\Products.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:29:34.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T23:34:42.811Z"
             }
           ]
         },

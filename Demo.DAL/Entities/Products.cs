@@ -9,7 +9,6 @@ namespace Demo.DAL.Entities
     public class Product : BaseEntity
     {
         public string Name { get; set; }
-        public DateTime CreationDate { get; set; }
         public string CreatedByUserId { get; set; }
         public DateTime StartDate { get; set; }
         public int DurationInDays { get; set; }

@@ -12,3 +12,4 @@ E:\Repos\ProductCatalogWebApplication\Demo.DAL\obj\Debug\net9.0\refint\Demo.DAL.
 E:\Repos\ProductCatalogWebApplication\Demo.DAL\obj\Debug\net9.0\Demo.DAL.pdb
 E:\Repos\ProductCatalogWebApplication\Demo.DAL\obj\Debug\net9.0\Demo.DAL.genruntimeconfig.cache
 E:\Repos\ProductCatalogWebApplication\Demo.DAL\obj\Debug\net9.0\ref\Demo.DAL.dll
+E:\Repos\ProductCatalogWebApplication\Demo.DAL\obj\Debug\net9.0\Demo.DAL.sourcelink.json
